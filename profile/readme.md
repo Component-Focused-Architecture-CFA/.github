@@ -26,3 +26,7 @@ It follows a **top-down hierarchy** (only importing from lower layers), keeps ev
 
 - [Project Structure](https://github.com/Component-Focused-Architecture-CFA/docs/blob/main/project-structure.md) — How everything is organized and why.
 - [Customization & FAQ](https://github.com/Component-Focused-Architecture-CFA/docs/blob/main/customization-and-faq.md) — How to adapt CFA to your projects and common questions.
+
+---
+
+![](https://komarev.com/ghpvc/?username=Component-Focused-Architecture-CFA&style=flat-square&color=brightgreen)
