@@ -16,7 +16,7 @@ This project structure is designed for clarity, scalability, and maintainability
 
 - **features/** — Logic-heavy components (actions, widgets, fetchers) managing workflows and APIs.
 
-- **ui/** — Reusable presentational components, split into components/ and elements/.
+- **ui/** — Reusable presentational components, split into `components/` and `elements/`.
 
 - **shared/** — Global utilities: hooks, functions, types, API slices.
 
